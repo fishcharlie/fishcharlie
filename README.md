@@ -7,4 +7,4 @@ Welcome to my GitHub Profile. Although I have a lot of interesting content here 
 - [Website](https://charlie.fish)
 - [Contact Page](https://blog.charlie.fish/contact/)
 - [My Repositories](https://github.com/fishcharlie?utf8=✓&tab=repositories&q=&type=source&language=)
-- [My Companies (rrainn) GitHub Page](https://github.com/rrainn)
+- [My Company's (rrainn) GitHub Page](https://github.com/rrainn)
