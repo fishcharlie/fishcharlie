@@ -4,8 +4,8 @@ Welcome to my GitHub Profile. Although I have a lot of interesting content here 
 
 **Links:**
 
-- [Website](https://charlie.fish)
-- [Contact Page](https://charlie.fish/contact)
-- [About Me](https://charlie.fish/about-me)
-- [My Repositories](https://github.com/fishcharlie?utf8=✓&tab=repositories&q=&type=source&language=)
-- [My Company's (rrainn) GitHub Page](https://github.com/rrainn)
+- [🌐 Website](https://charlie.fish)
+- [✉️ Contact Page](https://charlie.fish/contact)
+- [👨🏻‍💻 About Me](https://charlie.fish/about-me)
+- [📝 My Repositories](https://github.com/fishcharlie?utf8=✓&tab=repositories&q=&type=source&language=)
+- [🏢 My Company's (rrainn) GitHub Page](https://github.com/rrainn)
